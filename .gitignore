@@ -4,5 +4,3 @@ venv/
 .env
 .vscode/
 .ipynb_checkpoints/
-*.pkl
-*.pkl
